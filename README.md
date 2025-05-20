@@ -1,6 +1,6 @@
 # AI-Agents-Development
 
-this is a repo of what i learned as the basics of ai agent development
+This is a repo of what i learned as the basics of ai agent development
 some of them are 
 * prediction models
 * text -> speech or speech -> text models
